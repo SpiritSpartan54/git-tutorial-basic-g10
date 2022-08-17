@@ -6,3 +6,5 @@ Esta línea representa la modificación del archivo Readme.md desde el editor we
 Esta línea representa el segundo commit realizado via web. Mi perfil de GitHub es el siguiente [Daniel Bravo](https://github.com/SpiritSpartan54)
 
 Esta línea representa el primer commit realizado por terminar, también se clono repositorio.
+
+Esta línea representa el segundo commit realizado por terminar, de igual forma se muestra el uso del staging con git add, aqui el commit aun no montrara el archivo txt.
