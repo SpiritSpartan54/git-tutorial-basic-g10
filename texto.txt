@@ -1,1 +1,1 @@
-Este es el contenido del archivo txt representativo del segundo commit
+Este es el contenido del archivo de texto.txt

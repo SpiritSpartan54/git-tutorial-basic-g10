@@ -8,3 +8,5 @@ Esta línea representa el segundo commit realizado via web. Mi perfil de GitHub 
 Esta línea representa el primer commit realizado por terminar, también se clono repositorio.
 
 Esta línea representa el segundo commit realizado por terminar, de igual forma se muestra el uso del staging con git add, aqui el commit aun no montrara el archivo txt.
+
+Esta línea representa el commit por terminal y se agrega el achivo texto.txt
