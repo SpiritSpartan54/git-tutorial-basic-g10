@@ -11,4 +11,6 @@ Esta línea representa el segundo commit realizado por terminar, de igual forma 
 
 Esta línea representa el commit por terminal y se agrega el achivo texto.txt
 
-Esta línea representa el commit desde github desktop
+Esta línea representa el commit por terminal para ejemplificar el Pull de GitHub Desktop.
+
+Este es el primer commit por GitHub Desktop. Se usara para mostrar el funcionamiento de Pull en Git por terminal.
