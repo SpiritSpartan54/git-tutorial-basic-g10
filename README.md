@@ -14,3 +14,5 @@ Esta línea representa el commit por terminal y se agrega el achivo texto.txt
 Esta línea representa el commit por terminal para ejemplificar el Pull de GitHub Desktop.
 
 Este es el primer commit por GitHub Desktop. Se usara para mostrar el funcionamiento de Pull en Git por terminal.
+
+Esta líne representa un commit realizado con la función de source control integrada en visual studio code.
